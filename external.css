@@ -1,0 +1,16 @@
+.border{
+    border: 2px solid rgb(219, 119, 119);
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
